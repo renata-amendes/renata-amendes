@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renatadam100
+- 👋 Hi, I’m Renata Mendes
 - 👀 I’m interested in java and python
 
 
